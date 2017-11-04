@@ -1,5 +1,6 @@
+# SOGo sync / iRedmail URI
 {
-  "url" : "https://yourcaldavurl",
-  "username" : "yourusername",
+  "url" : "https://REPLACE-HOSTNAME/SOGo/dav/",
+  "username" : "name@domain.com",
   "password" : "yourpassword"
 }
